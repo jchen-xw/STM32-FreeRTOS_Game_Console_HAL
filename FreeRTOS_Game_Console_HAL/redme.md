@@ -45,8 +45,8 @@ STM32F103开发板实现了游戏、无源蜂鸣器播放、OKLED显示盒按键
     6. RGB全彩LED                                           *1
 
 # * IO连接说明 *
-    OLED SCK            PA8
-    OLED SDA            PA9
+    OLED SCK            PB8
+    OLED SDA            PB9
     按键：
         方向上          PA4
         方向下          PA5
