@@ -2,9 +2,9 @@
  * @Author: Jchen
  * @Date: 2024-10-04 19:35:52
  * @LastEditors: Jchen
- * @LastEditTime: 2024-10-06 23:16:35
+ * @LastEditTime: 2024-10-07 13:03:33
  * @Description: 
- * @FilePath: \FreeRTOS_Game_Console_HAL\redme.md
+ * @FilePath: \undefinedd:\Embedded\Git\FreeRTOS_Game_Console_HAL\redme.md
 -->
 #       * 照烧鸡腿饭 开发的 单片机游戏机项目 *
 #       * stm32 - FreeRTOS *
@@ -45,8 +45,8 @@ STM32F103开发板实现了游戏、无源蜂鸣器播放、OKLED显示盒按键
     6. RGB全彩LED                                           *1
 
 # * IO连接说明 *
-    OLED SCK            PA8
-    OLED SDA            PA9
+    OLED SCK            PB8
+    OLED SDA            PB9
     按键：
         方向上          PA4
         方向下          PA5
